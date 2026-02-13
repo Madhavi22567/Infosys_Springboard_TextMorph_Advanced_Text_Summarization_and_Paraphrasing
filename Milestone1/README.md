@@ -13,9 +13,13 @@ Ngrok.
 2. Run Streamlit app
 3. Use ngrok to expose the app
 ## Screenshots
-<img width="1862" height="810" alt="image" src="https://github.com/user-attachments/assets/d8b55640-43c1-4246-96df-46bceae2199d" />
-<img width="1805" height="835" alt="image" src="https://github.com/user-attachments/assets/60453a6b-15ce-424e-b44f-aed6e04e393c" />
-<img width="1651" height="856" alt="image" src="https://github.com/user-attachments/assets/eefdecad-c0d3-4827-ba2d-940249835b67" />
-<img width="1740" height="815" alt="image" src="https://github.com/user-attachments/assets/36734727-77f2-44e9-916a-b15a6ecf16e9" />
-<img width="1806" height="763" alt="image" src="https://github.com/user-attachments/assets/30377d0b-3e3d-496a-a576-3b0265e528b3" />
+<img width="1893" height="890" alt="image" src="https://github.com/user-attachments/assets/923ee0c0-3b39-4a03-b785-07ed2b0a41a8" />
+<img width="1811" height="904" alt="image" src="https://github.com/user-attachments/assets/4d1ce489-3ffd-4967-bdcc-7ca7e66c6360" />
+<img width="1872" height="883" alt="image" src="https://github.com/user-attachments/assets/296e3dff-08ef-4ff3-a689-3689becbbf56" />
+<img width="1810" height="816" alt="image" src="https://github.com/user-attachments/assets/28bfd34a-d86a-4145-9a79-3ca1577ac4f3" />
+<img width="1781" height="899" alt="image" src="https://github.com/user-attachments/assets/84acc39c-cd69-401e-936c-a2d6734f1b11" />
+<img width="1838" height="696" alt="image" src="https://github.com/user-attachments/assets/b87a92c1-e1be-41aa-85cd-a21064e99349" />
+
+
+
 
