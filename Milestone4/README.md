@@ -136,10 +136,10 @@ This project was developed collaboratively by:
 - **Shaik Sameena**
 - **Ziyaur Rahaman Shaik**
 - **Pujari LaxmiNarayan**
+---
 
 ## Screenshots
 
-(Add your screenshots here)
 
 ---
 
