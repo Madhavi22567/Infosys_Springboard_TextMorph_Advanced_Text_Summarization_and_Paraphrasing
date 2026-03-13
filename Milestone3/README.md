@@ -24,6 +24,19 @@ Additionally, the application introduces a Readability Dashboard and several UI/
 1. Install dependencies
 2. Run Streamlit app
 3. Use ngrok to expose the app
+  
+## Team Members
+
+This project was developed collaboratively by:
+
+- **Deivanai AR**
+- **Shaik Sameena**
+- **Ziyaur Rahaman Shaik**
+- **Pujari LaxmiNarayan**
+- **Manikanta.Tripurani**
+
+
+  
 ## Screenshots
 <img width="1826" height="861" alt="Screenshot 2026-03-05 140236" src="https://github.com/user-attachments/assets/3efe433f-3d58-4fa0-8a7c-c107a25d3c80" />
 <img width="1867" height="871" alt="image" src="https://github.com/user-attachments/assets/a1288746-8044-46ee-8158-e393912eaec1" />
