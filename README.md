@@ -123,12 +123,15 @@ Overall, TextMorph combines **AI intelligence, robust security, powerful analyti
 
 ## 🏗️ Tech Stack
 
-- Frontend: Streamlit  
-- Backend: Python  
-- Models: HuggingFace Transformers  
-- Database: SQLite / MongoDB  
-- Auth: JWT + SMTP  
-- Deployment: Ngrok  
+-| Layer          | Technology               |
+| -------------- | ------------------------ |
+| Frontend       | Streamlit                |
+| Backend        | FastAPI                  |
+| AI Models      | HuggingFace Transformers |
+| Database       | SQLite                   |
+| Authentication | JWT, SMTP                |
+| Visualization  | Plotly                   |
+ 
 
 ---
 
