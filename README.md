@@ -1,12 +1,10 @@
 # 🚀 TextMorph – Advanced AI Text Processing & Analytics Platform
 
-## 📌 Overview
-
 ## 📌 Description
 
-TextMorph is a comprehensive AI-powered text processing and analytics platform designed to transform the way users interact with written content. It integrates advanced Natural Language Processing (NLP) techniques with a secure and scalable architecture to deliver intelligent features such as text summarization, paraphrasing, translation, and question answering.
+TextMorph is a comprehensive AI-powered text processing and analytics platform designed to transform the way users interact with written content. It integrates advanced Natural Language Processing (NLP) techniques with a secure and scalable architecture to deliver intelligent features such as text summarization, paraphrasing, **multilingual language translation**, and question answering.
 
-The platform is built to address real-world challenges such as handling large volumes of text, improving content readability, and reducing the time required for manual rewriting. By leveraging transformer-based AI models, TextMorph enables users to generate accurate, context-aware, and high-quality outputs across multiple languages.
+The platform is built to address real-world challenges such as handling large volumes of text, improving content readability, and reducing the time required for manual rewriting. By leveraging transformer-based AI models, TextMorph enables users to generate accurate, context-aware, and high-quality outputs across multiple languages, making it highly effective for global communication and accessibility.
 
 A key highlight of the system is its powerful **Admin Analytics Dashboard**, which acts as a centralized control hub. It allows administrators to efficiently manage users, monitor platform activity, analyze usage patterns, and extract valuable insights through interactive visualizations. Features like **real-time activity tracking**, **model usage analysis**, and **WordCloud-based feedback visualization** help in understanding user behavior and improving system performance.
 
@@ -14,13 +12,15 @@ On the user side, TextMorph offers enhanced **profile personalization and securi
 
 Additionally, the system is optimized using **4-bit quantization techniques**, significantly reducing memory usage and improving inference speed without compromising performance. This makes the platform efficient and scalable for real-time applications.
 
-Overall, TextMorph combines **AI intelligence, robust security, powerful analytics, and user-centric design** to create a complete ecosystem for text processing and analysis.
+Overall, TextMorph combines **AI intelligence, robust security, powerful analytics, multilingual capabilities, and user-centric design** to create a complete ecosystem for text processing and analysis.
 
 ---
+
 ## 🎯 Key Objectives
 
 - Automate text processing using AI  
 - Improve readability and comprehension  
+- Enable seamless multilingual communication through translation  
 - Provide secure authentication  
 - Deliver real-time analytics  
 - Enhance user engagement through personalization  
@@ -33,7 +33,7 @@ Overall, TextMorph combines **AI intelligence, robust security, powerful analyti
 - Text Summarization (short, medium, long)
 - Paraphrasing Engine
 - Question Answering System
-- Multilingual Translation
+- Multilingual Translation (supports multiple languages)
 - Readability Analysis
 
 ---
@@ -63,7 +63,7 @@ Overall, TextMorph combines **AI intelligence, robust security, powerful analyti
 
 #### 📉 Data Visualization
 - AI model usage  
-- Language distribution  
+- Language usage distribution (including translation activity)  
 - Feature popularity  
 - Interactive charts  
 
@@ -186,7 +186,7 @@ ngrok http 8501
 ---
 
 ### 🔁 Paraphrasing
-![Paraphrasing](https://github.com/user-attachments/assets/d9248a00-35d7-4f07-b916-4f07-b916-4ea8573ef61f)
+![Paraphrasing](https://github.com/user-attachments/assets/d9248a00-35d7-4f07-b916-4ea8573ef61f)
 
 ---
 
@@ -252,6 +252,6 @@ ngrok http 8501
 
 ## 💡 Conclusion
 
-TextMorph is an AI-powered platform that improves writing, enhances understanding, and provides deep insights through analytics.
+TextMorph is an AI-powered platform that improves writing, enhances understanding, and enables seamless multilingual communication through intelligent translation and analytics.
 
 **“Better Writing, Smarter Understanding.”**
