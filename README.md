@@ -123,14 +123,14 @@ Overall, TextMorph combines **AI intelligence, robust security, powerful analyti
 
 ## 🏗️ Tech Stack
 
--| Layer          | Technology               |
-| -------------- | ------------------------ |
-| Frontend       | Streamlit                |
-| Backend        | FastAPI                  |
-| AI Models      | HuggingFace Transformers |
-| Database       | SQLite                   |
-| Authentication | JWT, SMTP                |
-| Visualization  | Plotly                   |
+| Layer           | Technology                |
+|-----------------|--------------------------|
+| Frontend        | Streamlit                |
+| Backend         | FastAPI                  |
+| AI Models       | HuggingFace Transformers |
+| Database        | SQLite                   |
+| Authentication  | JWT, SMTP                |
+| Visualization   | Plotly                   |
  
 
 ---
