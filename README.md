@@ -82,10 +82,19 @@ Overall, TextMorph combines **AI intelligence, robust security, powerful analyti
 
 ### 👤 User Dashboard & Personalization
 
-#### 🔒 Security
-- Update email  
-- Change password  
-- Manage account settings  
+### 🔐 Secure Authentication System
+
+- JWT-based authentication  
+- Password hashing using bcrypt  
+- OTP verification via email  
+- Forgot password functionality  
+- Session management  
+
+#### 🛡️ Advanced Security Features
+- Account lock after **3 consecutive wrong password attempts**
+- Protection against unauthorized access
+- Secure email verification flow
+- Token-based session validation 
 
 #### 🎨 Personalization
 - Upload profile avatar  
@@ -255,6 +264,25 @@ ngrok http 8501
 
 ## 💡 Conclusion
 
-TextMorph is an AI-powered platform that improves writing, enhances understanding, and enables seamless multilingual communication through intelligent translation and analytics.
+TextMorph represents a complete end-to-end AI-powered text processing platform that combines intelligent language models, strong security mechanisms, and advanced analytics into a single unified system.
 
+The development of this platform was carried out in a structured and progressive manner across multiple stages:
+
+- **Milestone 1:** Established a secure authentication system with user signup, login, JWT-based sessions, and password recovery functionality. This laid the foundation for a secure and reliable platform.
+
+- **Milestone 2:** Enhanced the system with OTP-based verification, improved UI/UX design, and introduced the Readability Dashboard to improve user interaction and experience.
+
+- **Milestone 3:** Integrated advanced AI capabilities using transformer-based models for summarization, paraphrasing, multilingual translation, and question answering. The system was further optimized using 4-bit quantization for better performance and efficiency.
+
+- **Milestone 4:** Developed a powerful Admin Analytics Dashboard and implemented user personalization features. This included user management, activity tracking, data visualization, WordCloud feedback analysis, and profile customization.
+
+With the integration of these features, the platform enables high-quality text processing with impressive accuracy and speed, making it highly effective for real-world applications.
+
+On the backend, secure authentication using JWT, OTP verification, and advanced account protection mechanisms (such as login attempt restrictions and account locking after multiple failed attempts) ensure a safe and reliable environment. The Admin Dashboard provides valuable insights into system usage and user behavior through interactive analytics.
+
+From a user perspective, the platform offers a seamless and personalized experience with profile customization, activity tracking, and an intuitive interface. Performance optimization further enhances scalability and responsiveness.
+
+Overall, TextMorph successfully demonstrates the integration of **AI intelligence, security, analytics, and user-centric design**, making it a powerful and scalable solution for modern text processing needs.
+
+### 🚀 Key Takeaway
 **“Better Writing, Smarter Understanding.”**
