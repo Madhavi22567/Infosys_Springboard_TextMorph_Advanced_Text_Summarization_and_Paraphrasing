@@ -172,12 +172,12 @@ ngrok http 8501
 
 ## 📸 Screenshots
 
-### 🖥️ Home / Landing Page
+### 🖥️ Login Page
 ![Home](https://github.com/user-attachments/assets/923ee0c0-3b39-4a03-b785-07ed2b0a41a8)
 
 ---
 
-### 🔐 Login Page
+### 🔐 account create   Page
 ![Login](https://github.com/user-attachments/assets/4d1ce489-3ffd-4967-bdcc-7ca7e66c6360)
 
 ---
