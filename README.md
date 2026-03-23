@@ -173,67 +173,69 @@ ngrok http 8501
 ## 📸 Screenshots
 
 ### 🖥️ Login Page
-![Home](https://github.com/user-attachments/assets/923ee0c0-3b39-4a03-b785-07ed2b0a41a8)
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/e08ae0fd-465f-4b68-a326-e99ab641af25" />
+
 
 ---
 
-### 🔐 account create   Page
-![Login](https://github.com/user-attachments/assets/4d1ce489-3ffd-4967-bdcc-7ca7e66c6360)
+### 🔐Create Account Page
+<img width="1897" height="1019" alt="image" src="https://github.com/user-attachments/assets/28549f94-68cf-4d4c-872d-fea9c8ab9f58" />
 
 ---
 
-### 🔑 OTP Verification
-![OTP](https://github.com/user-attachments/assets/296e3dff-08ef-4ff3-a689-3689becbbf56)
+### 🔑 Forgot Password
+<img width="1909" height="1003" alt="image" src="https://github.com/user-attachments/assets/5499a80d-241d-4fb4-8542-de25fcb8e961" />
+
 
 ---
 
 ### 🏠 User Dashboard
-![Dashboard](https://github.com/user-attachments/assets/d08384ee-c48d-464f-a6f4-8f4f7a3e1911)
+<img width="1911" height="1016" alt="image" src="https://github.com/user-attachments/assets/57a942c7-14c0-4515-84cf-3a4e5e38989d" />
 
 ---
 
 ### 🤖 Text Summarization
-![Summarization](https://github.com/user-attachments/assets/40f0cc11-e423-4f7d-958d-9bf68efec31c)
+<img width="1909" height="1018" alt="image" src="https://github.com/user-attachments/assets/7e21dc5d-3378-4e40-a9ab-63e207e3a30c" />
 
 ---
 
 ### 🔁 Paraphrasing
-![Paraphrasing](https://github.com/user-attachments/assets/d9248a00-35d7-4f07-b916-4ea8573ef61f)
+<img width="1912" height="1002" alt="image" src="https://github.com/user-attachments/assets/7c8c65d5-b6ef-4b7b-9c4a-d0aaf46d99e9" />
+
+---
+### 📜   Activity History Dashboard
+<img width="1917" height="1000" alt="image" src="https://github.com/user-attachments/assets/a2f4145b-534f-4504-b1d4-07258b7dabf8" />
 
 ---
 
-### 🌐 Translation
-![Translation](https://github.com/user-attachments/assets/a17a92c9-8c4b-4e42-8abc-c6dc81ffeafc)
 
----
-
-### ❓ Question Answering
-![QA](https://github.com/user-attachments/assets/ed80de63-8fca-4d16-86be-df5995e6c46a)
+### 🗃️ Dataset Augmentation
+<img width="1901" height="998" alt="image" src="https://github.com/user-attachments/assets/9de7e0d3-8e61-48e3-b9c1-a3764c7035b6" />
 
 ---
 
 ### 📊 Admin Dashboard
-![Admin](https://github.com/user-attachments/assets/2a61604b-f2a9-45a1-860b-e8e3321448a8)
+<img width="1910" height="1006" alt="image" src="https://github.com/user-attachments/assets/a6bde1f2-05ba-42b6-99b8-cfad70cd53ac" />
 
 ---
 
 ### 👥 User Management
-![Users](https://github.com/user-attachments/assets/dc55ac29-0707-4e33-8cb0-8c42e889a493)
+<img width="1915" height="1006" alt="image" src="https://github.com/user-attachments/assets/441e2929-907a-4a44-b106-dbc6a1e2c7fe" />
 
 ---
 
 ### 📈 Analytics Charts
-![Analytics](https://github.com/user-attachments/assets/28bf4ecf-9d54-4833-b2cf-2080bc94e1c5)
+<img width="1916" height="1004" alt="image" src="https://github.com/user-attachments/assets/5464223e-2a05-452a-bc1a-e326d0a1a6d6" />
 
 ---
 
 ### ☁️ WordCloud Feedback
-![WordCloud](https://github.com/user-attachments/assets/5711a2b1-d8a9-4b78-a2fc-74ad4e3a9255)
+<img width="1911" height="1011" alt="image" src="https://github.com/user-attachments/assets/6429c2e4-902f-4ec1-81fd-3ab40de55354" />
 
 ---
 
 ### 📥 Data Export
-![Export](https://github.com/user-attachments/assets/8523285c-6474-49c1-9483-7577c957fd3c)
+<img width="1914" height="1001" alt="image" src="https://github.com/user-attachments/assets/e1bc21a2-bdfd-4920-9bf6-ec15fb46b6ec" />
 
 ---
 
