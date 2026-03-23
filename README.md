@@ -239,18 +239,18 @@ ngrok http 8501
 
 ---
 
-### 👤 User Profile
-![Profile](https://github.com/user-attachments/assets/51d215b7-7388-49aa-ba78-4161745bfbe9)
+### 🛑 Remove Admin Access
+<img width="1918" height="995" alt="image" src="https://github.com/user-attachments/assets/c4bd4eb8-cbf4-4a02-81fb-171361403c78" />
 
 ---
 
-### ⚙️ Settings
-![Settings](https://github.com/user-attachments/assets/a71bed21-b140-4380-86c9-df93905cfe3a)
+### 🔒 Locked Accounts
+<img width="1907" height="992" alt="image" src="https://github.com/user-attachments/assets/9990981e-b99e-4b43-be5c-2253ba557aa4" />
 
 ---
 
-### 📜 Activity History
-![History](https://github.com/user-attachments/assets/31a6dfa3-dac4-4a68-ba7e-7c63cf86d537)
+### 📊 Activity Tracking
+<img width="1919" height="1021" alt="image" src="https://github.com/user-attachments/assets/46fbb97f-bb1e-459e-9f64-b89e0b664434" />
 
 ---
 
